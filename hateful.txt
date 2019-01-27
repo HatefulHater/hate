@@ -1,0 +1,14 @@
+# Basic tracking list by Hateful
+# License: GPLv3
+# Contact: support [at] hateful
+
+consensys.net
+jopasser.at
+biomedia.doc.ic.ac.uk
+dblp.org
+researchgate.net
+setopen.sportdata.org
+frontiersin.org
+loop.frontiersin.org
+arxiv.org
+cv.archives-ouvertes.fr
